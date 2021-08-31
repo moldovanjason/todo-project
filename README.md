@@ -1,5 +1,5 @@
 
-Run command in terminal 'npm run start' to start app.
+Run command in terminal 'npm run start' to start application
 
 this todo-project is simply just that, a todo list to add items with your daily tasks.
 there is no backend involved so the tasks are not store anywhere after the page is refreshed.
